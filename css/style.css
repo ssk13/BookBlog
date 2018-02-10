@@ -1,0 +1,66 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block:hover {
+	background-color: #ffdfac;
+	border-radius: 25px;
+}
+
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.color1 {
+	background-color: #ffdfac;
+}
+
+.color2 {
+	background-color: #e8a68e;
+}
+
+.color3 {
+	background-color: #ffa9c4;
+}
+
+.color4 {
+	background-color: #cd8cd8;
+}
+
+.color5 {
+	background-color: #a6a3ff;
+}
+
+.text-color1 {
+	color: #ffdfac;
+}
+
+.text-color2 {
+	color: #e8a68e;
+}
+
+.text-color3 {
+	color: #ffa9c4;
+}
+
+.text-color4 {
+	color: #cd8cd8;
+}
+
+.text-color5 {
+	color: #a6a3ff;
+}
+
+.book-image {
+	width: 300px;
+	border: 2px solid #a6a3ff;
+	margin: 20px;
+}
